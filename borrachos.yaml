@@ -1,0 +1,383 @@
+---
+borrachos:
+  players:
+  - alex
+  - matheus
+  - val
+  - anna
+  - martelo
+  - lopes
+  - mior
+  - leti
+  - sara
+  - nati
+  - evandro
+  - vini
+  - mari
+  - bruno
+  - zum
+  - felipe
+  - diego
+  - leticia
+  - peixe
+  - camana
+  - deivid
+  - elise
+  - carol-ruim
+  - alice
+  - sarah
+  - priscila
+  - cassiano
+  - gabi
+  - thaise
+  - iuri
+  - dandara
+  - jorge
+  - anderson
+  - natalia-hp
+  - renato
+  - mauricio
+  - primo
+  matches:
+  - date: 30/06
+    teams:
+      a:
+        players:
+        - mior
+        - val
+        - mari
+        - vini
+        - martelo
+        - sara
+        sets: 2
+      b:
+        players:
+        - alex
+        - matheus
+        - leti
+        - evandro
+        - lopes
+        - nati
+        sets: 1
+    winner: a
+  - date: 14/07
+    teams:
+      a:
+        players:
+        - alex
+        - leti
+        - sara
+        - diego
+        - martelo
+        - nati
+        sets: 1
+      b:
+        players:
+        - matheus
+        - val
+        - mior
+        - anna
+        - mari
+        - bruno
+        sets: 2
+    winner: b
+  - date: 22/07
+    teams:
+      a:
+        players:
+        - alex
+        - leti
+        - sara
+        - mior
+        - martelo
+        - priscila
+        sets: 1
+      b:
+        players:
+        - matheus
+        - val
+        - peixe
+        - leticia
+        - diego
+        - zum
+        sets: 2
+    winner: b
+  - date: 26/07
+    teams:
+      a:
+        players:
+        - mior
+        - sara
+        - leticia
+        - deivid
+        - martelo
+        - elise
+        sets: 1
+      b:
+        players:
+        - alex
+        - matheus
+        - leti
+        - camana
+        - sarah
+        - felipe
+        sets: 2
+    winner: b
+  - date: 17/08
+    teams:
+      a:
+        players:
+        - mior
+        - sara
+        - matheus
+        - carol-ruim
+        - alice
+        - elise
+        sets: 0
+      b:
+        players:
+        - alex
+        - nati
+        - val
+        - evandro
+        - martelo
+        - lopes
+        sets: 3
+    winner: b
+  - date: 01/09
+    teams:
+      a:
+        players:
+        - douglas
+        - anna
+        - martelo
+        - mari
+        - leti
+        - alice
+        - mior
+        - evandro
+        sets: 0
+      b:
+        players:
+        - sarah
+        - val
+        - matheus
+        - sara
+        - vini
+        - alex
+        - nati
+        sets: 4
+    winner: b
+  - date: 12/09
+    teams:
+      a:
+        players:
+        - mior
+        - evandro
+        - leti
+        - val
+        - nati
+        - cassiano
+        - lopes
+        sets: 3
+      b:
+        players:
+        - martelo
+        - mari
+        - sarah
+        - sara
+        - alex
+        - bruno
+        sets: 1
+    winner: a
+  - date: 22/09
+    teams:
+      a:
+        players:
+        - mior
+        - martelo
+        - sarah
+        - val
+        - sara
+        - dandara
+        sets: 3
+      b:
+        players:
+        - evandro
+        - vini
+        - gabi
+        - thaise
+        - alex
+        - lopes
+        - matheus
+        sets: 1
+    winner: a
+  - date: 29/09
+    teams:
+      a:
+        players:
+        - mior
+        - evandro
+        - lopes
+        - val
+        - sarah
+        - nati
+        sets: 3
+      b:
+        players:
+        - martelo
+        - sara
+        - leti
+        - alex
+        - bruno
+        - mari
+        sets: 1
+    winner: a
+  - date: 05/10
+    teams:
+      a:
+        players:
+        - mior
+        - val
+        - iuri
+        - felipe
+        - sara
+        - alex
+        sets: 2
+      b:
+        players:
+        - lopes
+        - evandro
+        - martelo
+        - vini
+        - leticia
+        - bruno
+        sets: 1
+    winner: a
+  - date: 11/10
+    teams:
+      a:
+        players:
+        - mior
+        - vini
+        - anderson
+        - martelo
+        - sara
+        - natalia-hp
+        sets: 2
+      b:
+        players:
+        - lopes
+        - jorge
+        - alex
+        - matheus
+        - leticia
+        - val
+        sets: 1
+    winner: a
+  - date: 18/10
+    teams:
+      a:
+        players:
+        - mior
+        - alex
+        - val
+        - elise
+        - anna
+        - mauricio
+        sets: 2
+      b:
+        players:
+        - dandara
+        - renato
+        - matheus
+        - sara
+        - martelo
+        - vini
+        sets: 1
+    winner: a
+  - date: 24/10
+    teams:
+      a:
+        players:
+        - matheus
+        - alex
+        - nati
+        - leti
+        - martelo
+        - lopes
+        - vini
+        sets: 1
+      b:
+        players:
+        - evandro
+        - sarah
+        - mior
+        - val
+        - marina
+        - jorge
+        sets: 2
+    winner: b
+  - date: 31/10
+    teams:
+      a:
+        players:
+        - alex
+        - sara
+        - evandro
+        - anna
+        - jorge
+        - martelo
+        sets: '2'
+      b:
+        players:
+        - mior
+        - matheus
+        - vini
+        - val
+        - leti
+        - lopes
+        sets: '1'
+    winner: a
+  - date: 14/11
+    teams:
+      a:
+        players:
+        - alex
+        - matheus
+        - val
+        - anna
+        - martelo
+        - lopes
+        sets: '2'
+      b:
+        players:
+        - mior
+        - sara
+        - nati
+        - vini
+        - renato
+        - primo
+        sets: '1'
+    winner: a
+  - date: 21/11
+    teams:
+      a:
+        players:
+        - mior
+        - sara
+        - vini
+        - evandro
+        - nati
+        - leti
+        sets: '2'
+      b:
+        players:
+        - alex
+        - lopes
+        - anna
+        - martelo
+        - matheus
+        - val
+        sets: '1'
+    winner: a
